@@ -27,7 +27,7 @@ Database file is also included
 
 GUI is done using Java Swing Framework
 
-Developed by: 
-Salman Khan,       
-Okasha Mohsin,    
-Muhammad Kamil   
+Developed by:
+Salman Khan, Okasha Mohsin, 
+Muhammad Kamil          
+ 
