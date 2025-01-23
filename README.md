@@ -26,3 +26,8 @@ Generate and Print Pay Slips
 Database file is also included
 
 GUI is done using Java Swing Framework
+
+Developed by: 
+Salman Khan       2022F-BSE-098
+Okasha Mohsin     2022F-BSE-072
+Muhammad Kamil    2022F-BSE-086
